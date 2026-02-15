@@ -1,6 +1,6 @@
 {
-  "Creators":   { "Level": 900, "Users": [12345678] },
-  "HeadAdmins": { "Level": 300, "Users": [11111111, 22222222] },
-  "Admins":     { "Level": 200, "Users": ["SomeUsername"] },
+  "Creators":   { "Level": 900, "Users": [YcIay, RBA] },
+  "HeadAdmins": { "Level": 300, "Users": [] },
+  "Admins":     { "Level": 200, "Users": [] },
   "Moderators": { "Level": 100, "Users": [] }
 }
